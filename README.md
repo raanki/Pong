@@ -25,4 +25,9 @@ Après l'exécution de la commande, vous aurez un exécutable généré incluant
 
 # *Maintenant Jouer !*
 
+Voici a quoi ressemble le jeu : 
+
+<p align="center"><img src="img/jeu.PNG" alt="jeu.png" width="500" height="300" /></p>
+
+
 
