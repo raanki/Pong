@@ -1,5 +1,12 @@
 # 🏓🤖🎾Pong
 
+## Table des matières
+- [Comment installer ?](#comment-installer)
+  - [Windows](#windows)
+  - [Linux](#linux)
+- [Présentation du code](##présentation-du-code)
+- [Intelligence Artificielle (IA)](##intelligence-artificielle-ia)
+- [Sons](##sons)
 
 ## *Comment installer ?*
 
