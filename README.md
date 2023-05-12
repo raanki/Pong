@@ -5,8 +5,8 @@
   - Windows
   - Linux
 - Présentation du code
-- Intelligence Artificielle (IA)
-- Sons
+  - Intelligence Artificielle (IA)
+  - Sons
 
 ## *Comment installer ?*
 
