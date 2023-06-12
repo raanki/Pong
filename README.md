@@ -97,3 +97,5 @@ Le jeu utilise différents sons pour améliorer l'expérience utilisateur. Voici
 - `sonVictoire` : Ce son est joué lorsque le joueur atteint le score maximum et remporte la partie. Il indique la victoire du joueur.
 
 Ces sons ajoutent des éléments audio immersifs au jeu, fournissant des rétroactions sonores à l'utilisateur lors de différentes actions et événements du jeu.
+
+#### by @ranki
